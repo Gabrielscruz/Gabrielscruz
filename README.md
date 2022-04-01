@@ -1,5 +1,5 @@
 ### Olá! Eu sou Gabriel S Cruz 
-- 🔭 Hoje trabalho como  Mis (Management Information System)
+- 🔭 Hoje trabalho como Full-stack Developer
 - 🌱 Estudando Typescript
 - 😄 Pronouns: ele/dele
 
