@@ -1,9 +1,9 @@
-<table>
+<table style="width: 100%;">
   <tr>
-    <td style="vertical-align: middle; border: none;">
-      <img src="logo.png" width="160" style="border-radius: 16px;" />
+    <td style="vertical-align: middle; border: none; width: 200px;">
+      <img src="logo.png" width="180" style="border-radius: 16px;" />
     </td>
-    <td style="vertical-align: middle; padding-left: 12px; border: none;">
+    <td style="vertical-align: middle; padding-left: 20px; border: none;">
       <h1 style="margin: 0;">Gabriel da Silva Cruz</h1>
       <h3 style="margin: 0;">Senior Software Engineer</h3>
     </td>
