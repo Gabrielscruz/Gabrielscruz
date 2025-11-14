@@ -51,3 +51,7 @@ My goal is simple: **be a reference in the programming field** — always learni
 <a href="https://www.linkedin.com/in/gabriel-da-silva-cruz/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+<a href="https://github.com/GabrielDaSilvaCruz" target="_blank">
+<img src="https://img.shields.io/badge/github-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
