@@ -1,4 +1,4 @@
-<div style="overflow: hidden; width: 100%;">
+<div style=" width: 100%;">
   <img 
     src="logo.png" 
     width="220" 
