@@ -7,8 +7,8 @@
     style="margin-right: 20px; border-radius: 16px;" 
   />
 
-<h1>Solution</h1>
-<code>Senior Software Engineer</code>
+<h1>Gabriel da silva cruz</h1>
+<code><h1>Senior Software Engineer</h1></code>
 
 </div>
 
