@@ -46,7 +46,7 @@ I enjoy collaboration, sharing knowledge, and growing together as a team.
 ## 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,reactnative,nextjs,nest,nodejs,prisma,jest,aws,docker,postgres,tailwind,python,pandas" />
+  <img src="https://skillicons.dev/icons?i=ts,react,react-native,nextjs,nest,nodejs,prisma,jest,aws,docker,postgres,tailwind,python,pandas" />
 </p>
 
 ---
