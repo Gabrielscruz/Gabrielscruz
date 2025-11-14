@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="funkopop.png" width="220px" style="border-radius: 20px" />
+  <img src="logo.png" width="220px" style="border-radius: 20px" />
 </p>
 
 <h1 align="center">Gabriel da Silva Cruz</h1>
