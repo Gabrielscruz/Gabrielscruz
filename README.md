@@ -1,14 +1,15 @@
 <table border="0" width="100%">
   <tr>
     <td width="180" valign="middle">
-      <img src="logo.png" width="180" style="border-radius: 16px;" />
+      <img src="seu-avatar.png" width="160" style="border-radius: 16px;" />
     </td>
     <td valign="middle">
       <h1 style="margin: 0;">Gabriel da Silva Cruz</h1>
-      <h3 style="margin: 0;">Senior Software Engineer</h3>
+      <p style="margin: 0; font-size: 18px;">Senior Software Engineer</p>
     </td>
   </tr>
 </table>
+
 
 
 <br>
