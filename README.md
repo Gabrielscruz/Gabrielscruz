@@ -6,7 +6,7 @@
     style="margin-right: 20px; border-radius: 16px;" 
   />
 
-  <h1 style="margin-bottom: 5px;border: 0">Gabriel da Silva Cruz</h1>
+  <h3 style="border: 0">Gabriel da Silva Cruz</h3>
   <code style="font-size: 18px;border: 0">Senior Software Engineer</code>
 </div>
 
