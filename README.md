@@ -7,7 +7,7 @@
   />
 
   
-  ## Gabriel da Silva Cruz
+  ### Gabriel da Silva Cruz
   <div style="float: left; margin: auto">
   
     <h3 style="margin: 0; padding: 0; font-size: 25;">Senior Software Engineer</h3>
