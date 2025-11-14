@@ -17,7 +17,7 @@ My goal is simple: **be a reference in the programming field** — always learni
 
 ## 🚀 Tech Stack  
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,reactnative,nextjs,nest,nodejs,prisma,aws,docker,postgres,tailwind,python,pandas,jest" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nest,nodejs,prisma,aws,docker,postgres,tailwind,python,jest" />
 </p>
 
 <br>
