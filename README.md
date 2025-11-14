@@ -2,7 +2,7 @@
   <img src="funkopop.png" width="230px" style="border-radius: 20px" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Gustavo</h1>
+<h1 align="center">👋 Hi, I'm Gabriel</h1>
 <h3 align="center">Senior Software Engineer • Thinkin</h3>
 
 <br>
@@ -60,7 +60,7 @@ I enjoy collaboration, sharing knowledge, and growing together as a team.
 
 ## 📫 Connect With Me
 
-<a href="https://www.linkedin.com/in/gustavosilva/" target="_blank">
+<a href="https://www.linkedin.com/in/gabriel-blz/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -70,7 +70,7 @@ I enjoy collaboration, sharing knowledge, and growing together as a team.
 
 ## 📊 GitHub Stats
 
-> Replace `YOUR_USERNAME` with your real GitHub username.
+> Replace `gabrielscruz` with your real GitHub username.
 
 <p align="center">
   <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=radical" />
