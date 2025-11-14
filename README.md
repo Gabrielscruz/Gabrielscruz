@@ -1,36 +1,77 @@
-### Olá! Eu sou Gabriel S Cruz 
-- 🔭 Hoje trabalho como Full-stack Developer
-- 🌱 Estudando Typescript
-- 😄 Pronouns: ele/dele
+<p align="center">
+  <img src="funkopop.png" width="230px" style="border-radius: 20px" />
+</p>
 
-<div align="center">
-  <a href="https://github.com/Gabrielscruz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielscruz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielscruz&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<h1 align="center">👋 Hi, I'm Gustavo</h1>
+<h3 align="center">Senior Software Engineer • Thinkin</h3>
 
+<br>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
- 
-  <img align="center" alt="Mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Sql"  height="30" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" target="_blank">
-</div>
-  
-  ##
-  
-<div> 
-    <a href="https://discord.gg/EapEzxu2" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:gabriel-blz@outlook.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/gabriel-blz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-![Snake animation](https://github.com/Gabrielscruz/Gabrielscruz/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+## 📝 About Me
+
+I'm a senior software engineer with 7+ years of experience, focused on building real solutions that improve processes, performance, and user experience.
+
+I started my journey in MIS, where I spent around 3 years managing operations, leading teams, analyzing performance, and ensuring everything ran smoothly in the fast-paced call center environment.  
+This background gave me strong skills in leadership, data analysis, communication, and strategic thinking — all of which I apply daily in development.
+
+Today, I build complex systems at **Thinkin**, including:
+
+- Monitoring Platforms  
+- Study & Training Platforms  
+- Internal Social Network  
+- Real-time Chat  
+- Automations & ETL pipelines  
+- Internal tooling and system optimizations  
+
+I enjoy creating things that have real impact — whether requested or developed by initiative to make processes better. I love seeing results.
+
+Currently working with:
+
+- **Next.js**
+- **React**
+- **Node.js**
+- **TailwindCSS**
+- **PostgreSQL**
+- **Docker & NGINX**
+- **Python (Selenium, Pandas, DuckDB, ETL)**
+
+I'm the type who learns fast and applies immediately. I’ve completed multiple formations from Rocketseat, Alura, and other platforms, covering Node, React, React Native, DevOps, and even Machine Learning.
+
+I enjoy collaboration, sharing knowledge, and growing together as a team.
+
+<br>
+
+---
+
+## 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,react,reactnative,nextjs,nest,nodejs,prisma,jest,aws,docker,postgres,tailwind,python,pandas" />
+</p>
+
+---
+
+## 💼 Other GitHub Profiles
+
+🔧 **Work GitHub (Triskin / Thinkin)**  
+👉 https://github.com/GabrielDaSilvaCruz
+
+---
+
+## 📫 Connect With Me
+
+<a href="https://www.linkedin.com/in/gustavosilva/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+---
+
+## 📊 GitHub Stats
+
+> Replace `YOUR_USERNAME` with your real GitHub username.
+
+<p align="center">
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=radical" />
+</p>
