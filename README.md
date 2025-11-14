@@ -1,5 +1,5 @@
 <table style="width: 100%;">
-  <tr>
+  <tr  style="width: 100%;">
     <td style="vertical-align: middle; border: none; width: 200px;">
       <img src="logo.png" width="220" style="border-radius: 16px;" />
     </td>
