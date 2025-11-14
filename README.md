@@ -70,7 +70,7 @@ I enjoy collaboration, sharing knowledge, and growing together as a team.
 
 ## 📊 GitHub Stats
 
-> Replace `gabrielscruz` with your real GitHub username.
+> Replace `Gabrielscruz` with your real GitHub username.
 
 <p align="center">
   <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=radical" />
