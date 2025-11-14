@@ -1,14 +1,15 @@
-<table style="width: 100%;">
-  <tr  style="width: 100%;">
-    <td style="vertical-align: middle; border: none; width: 200px;">
-      <img src="logo.png" width="220" style="border-radius: 16px;" />
+<table border="0" width="100%">
+  <tr>
+    <td width="180" valign="middle">
+      <img src="logo.png" width="180" style="border-radius: 16px;" />
     </td>
-    <td style="vertical-align: middle; padding-left: 20px; border: none; width: 1200px">
+    <td valign="middle">
       <h1 style="margin: 0;">Gabriel da Silva Cruz</h1>
       <h3 style="margin: 0;">Senior Software Engineer</h3>
     </td>
   </tr>
 </table>
+
 
 <br>
 
