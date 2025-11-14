@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="logo.png" width="220px" style="border-radius: 20px" />
-</p>
+<img src="logo.png" width="220px" style="border-radius: 20px" />
 
 <h1 align="center">Gabriel da Silva Cruz</h1>
 <h3 align="center">Senior Software Engineer</h3>
