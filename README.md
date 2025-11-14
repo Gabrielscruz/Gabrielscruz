@@ -1,16 +1,17 @@
 <div style="overflow: hidden; width: 100%;">
   <img 
     src="logo.png" 
-    width="160" 
+    width="220" 
     align="left" 
     style="margin-right: 20px; border-radius: 16px;" 
   />
 
   <div style="float: left;">
-    <h3 style="margin: 0; padding: 0;font-size: 120px;">Gabriel da Silva Cruz</h3>
-    <h3 style="margin: 0; padding: 0;font-size: 36px;">Senior Software Engineer</h3>
+    <h3 style="margin: 0; padding: 0; font-size: 3rem;">Gabriel da Silva Cruz</h3>
+    <h3 style="margin: 0; padding: 0; font-size: 1.5rem;">Senior Software Engineer</h3>
   </div>
 </div>
+
 
 <br>
 
