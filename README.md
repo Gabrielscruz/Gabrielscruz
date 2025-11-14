@@ -1,4 +1,3 @@
-
 <div style="overflow: hidden; width: 100%;">
   <img 
     src="logo.png" 
@@ -7,10 +6,12 @@
     style="margin-right: 20px; border-radius: 16px;" 
   />
 
-<h1>Gabriel da silva cruz</h1>
-<code><h1>Senior Software Engineer</h1></code>
+  <h1 style="margin-bottom: 5px;">Gabriel da Silva Cruz</h1>
+  <code style="font-size: 18px;">Senior Software Engineer</code>
 
+  <hr style="margin-top: 10px; border: 0; border-bottom: 2px solid #555;" />
 </div>
+
 
 <br>
 
