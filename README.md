@@ -1,15 +1,16 @@
-<table border="0" bordercolor="transparent" width="100%">
-  <tr>
-    <td width="180" valign="middle" style="border-color: transparent;">
-      <img src="logo.png" width="160" style="border-radius: 16px;" />
-    </td>
-    <td valign="middle" style="border-color: transparent;">
-      <h1 style="margin: 0;">Gabriel da Silva Cruz</h1>
-      <p style="margin: 0; font-size: 18px;">Senior Software Engineer</p>
-    </td>
-  </tr>
-</table>
+<div style="overflow: hidden; width: 100%;">
+  <img 
+    src="logo.png" 
+    width="160" 
+    align="left" 
+    style="margin-right: 20px; border-radius: 16px;" 
+  />
 
+  <div style="float: left;">
+    <h1 style="margin: 0; padding: 0;">Gabriel da Silva Cruz</h1>
+    <h3 style="margin: 0; padding: 0;">Senior Software Engineer</h3>
+  </div>
+</div>
 
 <br>
 
