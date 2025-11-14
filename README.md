@@ -1,5 +1,3 @@
-<style>h1,h2,h3,h4 { border-bottom: 0; } </style>
-
 
 <div style="overflow: hidden; width: 100%;">
   <img 
@@ -9,12 +7,9 @@
     style="margin-right: 20px; border-radius: 16px;" 
   />
 
-  
-  ### Gabriel da Silva Cruz
-  <div style="float: left; margin: auto">
+<h1>Solution</h1>
+<code>Senior Software Engineer</code>
 
-    <code>Senior Software Engineer</code>
-  </div>
 </div>
 
 <br>
