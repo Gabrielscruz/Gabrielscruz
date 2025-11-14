@@ -7,7 +7,7 @@
   />
 
   <div style="float: left; margin: auto">
-    <h3 style="margin: 0; padding: 0; font-size: 45;">Gabriel da Silva Cruz</h3>
+    ## Gabriel da Silva Cruz
     <h3 style="margin: 0; padding: 0; font-size: 25;">Senior Software Engineer</h3>
   </div>
 </div>
