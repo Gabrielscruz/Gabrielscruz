@@ -1,7 +1,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="180" valign="middle">
-      <img src="seu-avatar.png" width="160" style="border-radius: 16px;" />
+      <img src="logo.png" width="160" style="border-radius: 16px;" />
     </td>
     <td valign="middle">
       <h1 style="margin: 0;">Gabriel da Silva Cruz</h1>
