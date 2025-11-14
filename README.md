@@ -1,23 +1,9 @@
-<div style="
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  gap: 12px;
-">
-  <img 
-    src="logo.png" 
-    width="220px" 
-    style="border-radius: 20px;" 
-  />
+<div style="display: flex; align-items: center; gap: 16px;">
+  <img src="logo.png" width="160" style="border-radius: 16px;" />
 
-  <div style="
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-  ">
-    <h1 style="margin: 0; text-align: center;">Gabriel da Silva Cruz</h1>
-    <h3 style="margin: 0; text-align: center;">Senior Software Engineer</h3>
+  <div>
+    <h1 style="margin: 0;">Gabriel da Silva Cruz</h1>
+    <h3 style="margin: 0;">Senior Software Engineer</h3>
   </div>
 </div>
 
