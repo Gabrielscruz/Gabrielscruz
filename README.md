@@ -1,3 +1,6 @@
+<style>h1,h2,h3,h4 { border-bottom: 0; } </style>
+
+
 <div style="overflow: hidden; width: 100%;">
   <img 
     src="logo.png" 
