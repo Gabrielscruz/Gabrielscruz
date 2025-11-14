@@ -6,8 +6,10 @@
     style="margin-right: 20px; border-radius: 16px;" 
   />
 
+  
+  ## Gabriel da Silva Cruz
   <div style="float: left; margin: auto">
-    ## Gabriel da Silva Cruz
+  
     <h3 style="margin: 0; padding: 0; font-size: 25;">Senior Software Engineer</h3>
   </div>
 </div>
