@@ -1,7 +1,27 @@
-<img src="logo.png" width="220px" style="border-radius: 20px" />
+<div style="
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 12px;
+">
+  <img 
+    src="logo.png" 
+    width="220px" 
+    style="border-radius: 20px;" 
+  />
 
-<h1 align="center">Gabriel da Silva Cruz</h1>
-<h3 align="center">Senior Software Engineer</h3>
+  <div style="
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  ">
+    <h1 style="margin: 0; text-align: center;">Gabriel da Silva Cruz</h1>
+    <h3 style="margin: 0; text-align: center;">Senior Software Engineer</h3>
+  </div>
+</div>
+
+<br>
 
 <br>
 
